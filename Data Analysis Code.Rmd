@@ -1,5 +1,5 @@
 ---
-title: 'GIS 3 Lab 2'
+title: 'The Community Heterogeneity of Earnings from Flexible Work'
 author: "Ryan (Yigong) Wang" 
 fontsize: 11pt
 output:
@@ -46,8 +46,6 @@ opts_chunk$set(size='small')
 opts_chunk$set(echo=FALSE) 
 opts_chunk$set(warning=FALSE) 
 ```
-
-This lab will practice skills learned in Chapters 3 and 4. In this lab, I will use a spatial dataset to explore the statistical and visualization features for attributes in the dataset available in R.
 
 The dataset I will assemble today is from the ACS public use data, curated by IPUMS from the University of Minnesota. (See "References" section at the end of this document for more information.)
 
@@ -384,5 +382,5 @@ Steven Ruggles, Sarah Flood, Ronald Goeken, Josiah Grover, Erin Meyer, Jose Paca
 \newline
 \newline
 \begin{center}
--END OF LAB 2-
+-END OF CODE-
 \end{center}
